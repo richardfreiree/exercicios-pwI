@@ -1,8 +1,3 @@
-Aqui está um **README.md** mais simples e direto, mantendo a organização das listas em **Markdown**:  
-
----
-
-```md
 # 📚 Listas de Exercícios - Programação Web I
 
 Este repositório contém exercícios práticos para a disciplina de **Programação Web I**, organizados em listas numeradas.
