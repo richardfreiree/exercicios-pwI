@@ -15,13 +15,5 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 3. Se precisar, consulte o material da aula ou pesquise mais sobre o tema.  
 
 📌 *Bons estudos!* 🚀  
-```
 
----
 
-🔹 **O que foi feito?**  
-✔️ Mantive o formato simples e organizado  
-✔️ Adicionei os nomes das listas com links diretos  
-✔️ Incluí um pequeno guia para os alunos  
-
-Se quiser mais alguma personalização, me avise! 😊
