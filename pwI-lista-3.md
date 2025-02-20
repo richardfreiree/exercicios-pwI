@@ -14,8 +14,7 @@ Meu nome é **João Silva**, sou apaixonado por tecnologia e programação. Desd
 
 ---
 
-## 📌 Exemplo 2 – Guia de Viagem  
-
+## 📌 Exemplo 2 – Guia de Viagem  wq
 # Guia de Viagem: Descobrindo o Japão  
 
 Se você sempre sonhou em conhecer um país com cultura rica, tecnologia avançada e paisagens incríveis, o Japão é o destino perfeito! Aqui estão alguns dos lugares que você não pode deixar de visitar.  
