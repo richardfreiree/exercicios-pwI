@@ -4,9 +4,10 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 
 ## 📂 Listas de Exercícios  
 
-- [📜 Lista 1 - Introdução ao HTML](pwI-lista-2.md)  
+- [📜 Lista 1 - Introdução ao HTML](pwI-lista-1.md)  
 - [📜 Lista 2 - Exercícios sobre estrutura](pwI-lista-2.md)  
 - [📜 Lista 3 - Exercícios de fixação](pwI-lista-3.md)  
+- [📜 Lista 4 - Exercícios de fixação](pwI-lista-4.md)  
 
 ## 🚀 Como Usar  
 
