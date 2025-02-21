@@ -50,10 +50,6 @@ Adotar hábitos saudáveis não apenas melhora a saúde física, mas também con
 
 ---
 
-Claro! Vamos mudar o tema para **Sustentabilidade e Conservação Ambiental**. Aqui está um texto em Markdown mais complexo, incluindo duas tabelas, um formulário, uma imagem e um link:
-
----
-
 # 2 - Sustentabilidade e Conservação Ambiental
 
 A **sustentabilidade** é um conceito que se refere à utilização consciente dos recursos naturais, de forma a garantir que as gerações futuras tenham acesso a esses recursos. É fundamental adotar práticas que promovam a **conservação ambiental** para proteger o planeta e a biodiversidade.
