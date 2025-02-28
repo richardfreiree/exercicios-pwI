@@ -8,6 +8,7 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 - [📜 Lista 2 - Exercícios sobre estrutura](pwI-lista-2.md)  
 - [📜 Lista 3 - Exercícios de fixação](pwI-lista-3.md)  
 - [📜 Lista 4 - Exercícios de fixação](pwI-lista-4.md)  
+- [📜 Lista 5 - Exercícios de fixação](pwI-lista-5.md)  
 
 ## 🚀 Como Usar  
 
