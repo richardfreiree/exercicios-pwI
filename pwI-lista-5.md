@@ -1,4 +1,3 @@
-Ah, entendi! Vou refazer os exercícios para que os alunos pratiquem a estilização sem os estilos já aplicados. Aqui vão algumas sugestões, sem o estilo pronto, para que eles possam trabalhar nas partes de CSS:
 
 ### 1. **Alterando o estilo de um título**
    **Instruções:**
