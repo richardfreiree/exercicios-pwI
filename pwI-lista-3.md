@@ -1,7 +1,3 @@
-Aqui está a lista de textos estruturados em **Markdown** para facilitar a leitura e formatação.  
-
----
-
 ## 📌 Exemplo 1 – Biografia Simples  
 
 ### João Silva - Quem sou eu?  
