@@ -140,4 +140,4 @@
    **Tarefa:**  
    - Adicione estilos para a classe `.caixa` usando as propriedades `margin` e `padding`.
 
-Esses exercícios permitirão que os alunos pratiquem o uso de CSS, definindo estilos por conta própria.
+
