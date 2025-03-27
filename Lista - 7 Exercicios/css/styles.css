@@ -1,9 +1,10 @@
 * {
-    margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
 }
-
+body {
+    background-color: rgba(196, 186, 196, 0.732);
+}
 h1 {
     font-size: 25px;
     background: linear-gradient(10deg, #61e, #66e, #f1f1f1);
@@ -17,35 +18,98 @@ h1 {
 }
 
 img {
-    width: 340px;
+    width: 320px;
+    height: auto;
+
 }
 
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center; 
     flex-wrap: wrap;
-    height: 10px;
-    gap: 1%;
+    gap: 13px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 .card {
+    width: 380px;
     border-radius: 5px;
     margin-bottom: 20px;
     box-shadow:  2px 4px 12px #999;
     background: linear-gradient(to top, #52e,#53e,#f1f1f1);
+    padding-bottom: 40px;
+}
+
+.card:hover{
+    transform: scale(1.1);
+    margin:10px 30px;
+    transition: 0.6s;
 }
 
 h2 {
     text-align: center;
+    color: #fff;
+    font-size: 25px;
 }
 
-#card-1 img , #card-2 img {
-    width: 340px;
-    height: 270px;
+p {
+    text-align: center;
     position: relative;
-    top: 40px;
+    bottom: 20px;
+    color: #ccc;
+}
+
+#card-3, #card-4 {
+    padding-top: 30px;
+    margin-top: 30px;
+
+}
+
+span {
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    left: 35%;
+    bottom: 25px;
+    color: #f1f1f1;
+    border-bottom: 3px solid #f16431;
+}
+
+
+button {
+    text-align: center;
+    background: linear-gradient(45deg, #FF4500,#FFFF00, #ffff);
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    padding: 5px 15px;
+    left: 15px;
+    border-radius: 5px;
+    box-shadow: #999;
+    color:#333
+}
+
+button:hover{
+    background:  linear-gradient(200deg, #FF4500,#FFFF00, #ffff);
+    transition: 0.20s;
+    overflow: hidden;
+    transform: scale(1.2);
+}
+
+#card-1 button{
+    left: 1.5rem;
+}
+
+
+#card-1 img, #card-2 img{
+    position: relative;
+    top: 60px;
+    left: 30px;
+    width: 300px;
 }
 
 #card-2 img {
-    top: 60px;
+    top: 80px
 }
