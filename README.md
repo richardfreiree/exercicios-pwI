@@ -11,6 +11,7 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 - [📜 Lista 5 - Exercícios estilização, seletores e especificidade ](pwI-lista-5.md)  
 - [📜 Lista 6 - Exercício HTML, CSS, Box Model, Posicionamento, Box-Sizing, e Display](pwI-lista-6.md)
 - [📜 Lista 7 - Exercício Flex Box - Flex Container](pwI-lista-7.md)  
+- [📜 Lista 8 - Projeto - 1: craftsy-blended](./pwI-lista-8/pwI-lista-8.md)  
 
 ## 🚀 Como Usar  
 
