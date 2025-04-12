@@ -37,9 +37,12 @@ O design deve seguir os espaçamentos e posicionamentos indicados no `craftsy-bl
 ### Login
 ![Login](./prototipos/login-craftsy.png)
 
-## 📅 Prazo de Entrega
+## 👪 Time DEV
+O time de desenvolvimento poderá ter até três Participantes.
 
-O projeto deve ser entregue até o **dia 11/04/2025**. Então, sem enrolar! Qualquer dúvida, bora trocar ideia e resolver juntos. 😃
+## 📅 Prazo de Entrega
+ 
+O projeto deve ser entregue até o **dia 25/04/2025**. Então, sem enrolar! Qualquer dúvida, bora trocar ideia e resolver juntos. 😃
 
 ## 🚀 Bora codar!
 
