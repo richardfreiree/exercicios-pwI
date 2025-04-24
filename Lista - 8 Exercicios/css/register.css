@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(/pwI-lista-8/assets/bg-2.png);
+}
+
+.container{
+    position: relative;
+    margin: 0 auto;
+    width: 1140px;
+}
+
+h3 {
+    margin-bottom: 20px;
+}
+nav {
+    margin-top: 10px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    width: 1140px;
+}
+
+.nav-items ul{
+    display: flex;
+    gap: 10px;
+}
+
+
+.nav-items li{
+    padding: 10px;
+    list-style: none;
+    color: white;
+    
+}
+
+.register {
+    margin-left: auto;
+}
+
+.register ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.register li {
+    color: white;
+}
+.register a{
+    text-decoration: none;
+}
+
+
+.container-register {
+    position: absolute;
+    right: 360px;
+    top: 130px;
+}
+
+.title-form {
+    font-size: 18px;
+    color: #444;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.register-box input {
+    width: 430px;
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+}
+
+.register-box {
+    margin-bottom: 20px;
+}
+
+.required-field{
+    color: red;
+    font-size: 13px;
+}
+
+.born-country input{
+    width: 260px;
+    margin-bottom: 5px;
+}
+
+
+.born-country {
+    margin-bottom: 20px;
+}
+
+.gener {
+    margin-bottom: 20px;
+}
+
+.radio {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.hobbies-box {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.hobbies {
+    margin-bottom: 20px;
+}
+
+.hobbies h3 {
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 400px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+
+
+.termos input {
+    margin-bottom: 20px;
+}
+
+.termos label {
+    color: #666;
+}
+
+button {
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 130px;
+    background-color: rgb(30, 123, 229);
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 50px;
+}

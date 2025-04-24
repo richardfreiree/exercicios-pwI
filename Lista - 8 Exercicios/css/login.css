@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(/pwI-lista-8/assets/bg-2.png);
+}
+.container{
+    position: relative;
+    margin: 0 auto;
+    width: 1140px;
+}
+nav {
+    margin-top: 10px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    width: 1140px;
+}
+
+.nav-items ul{
+    display: flex;
+    gap: 10px;
+}
+
+
+.nav-items li{
+    padding: 10px;
+    list-style: none;
+    color: white;
+    
+}
+
+.register {
+    margin-left: auto;
+}
+
+.register ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+}
+
+.register li {
+    color: white;
+}
+.register a{
+    text-decoration: none;
+}
+
+.container-login {
+    top: 150px;
+    position: absolute;
+    right: 360px;
+}
+
+h2 {
+    font-size: 30px;
+    color: #444;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.login {
+    color: #444;
+}
+
+
+.login input {
+    width: 430px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+.login p {
+    margin-bottom: 5px;
+}
+
+.remind {
+    position: absolute;
+    right: 0;
+    color: #666;
+}
+
+
+
+button {
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    top: 300px;
+    text-align: center;
+    padding: 10px;
+    width: 130px;
+    background-color: rgb(30, 123, 229);
+    border-radius: 5px;
+    border: none;
+}
