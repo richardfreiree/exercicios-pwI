@@ -4,7 +4,7 @@
 
 Neste desafio, você deve escolher **uma calculadora real**, seja física ou virtual, e **reproduzir seu visual** utilizando **HTML e CSS com display: grid**.
 
-O foco é aplicar corretamente os conceitos de **grid areas** já estudados em aula, organizando os elementos de forma semelhante ao modelo escolhido.
+O foco é aplicar corretamente os conceitos de **grid** já estudados em aula, organizando os elementos de forma semelhante ao modelo escolhido.
 
 
 ---
