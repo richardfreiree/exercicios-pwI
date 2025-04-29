@@ -6,6 +6,7 @@ Neste desafio, você deve escolher **uma calculadora real**, seja física ou vir
 
 O foco é aplicar corretamente os conceitos de **grid areas** já estudados em aula, organizando os elementos de forma semelhante ao modelo escolhido.
 
+
 ---
 
 ## 📸 Requisitos para entrega
