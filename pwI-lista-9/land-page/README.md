@@ -39,7 +39,7 @@ O objetivo desta atividade é desenvolver um layout **estático**, o mais fiel p
 
 - Código fonte com os arquivos `index.html` e `style.css`;
 - A imagem do modelo original deve estar junto ao projeto, como referência;
-- Na pasta assets terá a imagem banner.png e logo.png para utlizar no prjeto
+- Na pasta assets terá a imagem banner.png e logo.png para utlizar no projeto
 - Estrutura clara e organizada;
 - Comentários no código são bem-vindos, mas não obrigatórios.
 
