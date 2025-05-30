@@ -14,7 +14,7 @@ Este repositório contém exercícios práticos para a disciplina de **Programa�
 - [📜 Lista 8 - Projeto - 1: craftsy-blended](./pwI-lista-8/pwI-lista-8.md)  
 - [📜 Lista 9 - Projeto - 2:]() [clone de calculadora](./pwI-lista-9/calculadora) e [clone landing-page](./pwI-lista-9/land-page)
 - [📜 Lista 10 - Projeto: mobile-first](./pwI-lista-10/pwI-lista-10.md)  
-
+- [📜 Lista 11 - Exercícios: javascript-basico](./pwI-lista-11/pwI-lista-11.md)  
 ## 🚀 Como Usar  
 
 1. Clique no link da lista desejada para visualizar os exercícios.  
